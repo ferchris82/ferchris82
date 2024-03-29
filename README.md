@@ -71,7 +71,5 @@
   <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
----
-
 [ChrisferDev](https://github.com/ferchris82)
 Last Edited on : 03/29/2024
