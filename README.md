@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm ChrisferDev</h1>
-<a target="_blank" href="https://www.ferchris82.gr"><img src="https://github.com/ferchris82/ferchris82/blob/main/Portada.gif" width="300" height="200"/></a>
+<div align="center">
+  <a target="_blank" href="https://www.ferchris82.gr">
+    <img src="https://github.com/ferchris82/ferchris82/blob/main/Portada.gif" width="200" height="150"/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Analyst+And+Developer;Full-Stack+Java+Developer;Spring%20|%20Angular%20|%20Mysql;Always%20developing%20my%20skills&center=true&width=380&height=45">
