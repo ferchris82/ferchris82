@@ -9,10 +9,7 @@
 </p>
 
 <pre align="center">
-💻 "I am a recent graduate technologist in software analysis and development with a comprehensive focus on Java.
-    My passion for programming and software development has led me to acquire solid technical skills and develop
-     a problem-solving oriented mindset. My willingness to learn and my ability to work in teams make me a valuable 
-     asset for any software development project."
+💻 "I am a current student studying software analysis and development with a comprehensive focus on Java. My passion for programming and software development is driving me to acquire solid technical skills and cultivate a problem-solving oriented mindset. My eagerness to learn and my ability to work in teams make me a valuable asset for any software development project."
 </pre>
 
 <div align="center">
