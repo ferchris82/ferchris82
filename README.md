@@ -56,7 +56,7 @@
 </div>
 <div align="center">
   <h3><b>Let's get in touch!</b></h3>
-  <a href="https://www.linkedin.com/in/christian-rojas-8a352062" target="_blank">	
+  <a href="https://www.linkedin.com/in/christian-fernando-rojas-8a352062/" target="_blank">	
     <img align="center" alt="LinkedIn" width="40px" src="https://github.com/ferchris82/ferchris82/blob/main/linkedin.png" />
   </a>
 </div>
